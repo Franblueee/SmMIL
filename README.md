@@ -1,5 +1,5 @@
 <h1 align='center'>
-    Sm: enhanced localization in Multiple Instance Learning for medical imaging classification [<a href="">arXiv</a>]<br>
+    Sm: enhanced localization in Multiple Instance Learning for medical imaging classification [<a href="https://arxiv.org/abs/2410.03276">arXiv</a>]<br>
 </h1>
 
 <p align="center">
